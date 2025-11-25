@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Big data files
+data/*.json
+*.log
+
+# HDFS copies
+/project/
+
+# Virtual env
+venv/
+
+# System
+.DS_Store
+Thumbs.d
